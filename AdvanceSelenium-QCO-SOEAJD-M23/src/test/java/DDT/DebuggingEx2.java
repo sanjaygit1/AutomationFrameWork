@@ -16,7 +16,7 @@ public class DebuggingEx2 {
 		sample win = new sample();
 		win.maximizeWin(driver);
 		driver.findElement(By.name("q")).sendKeys("puma");
-
+//pull back
 	}
 
 }
